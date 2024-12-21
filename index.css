@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #a51306;
+    background-color: #f7c4c4;
     color: white;
     padding: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -75,8 +75,8 @@ h2 {
 }
 
 #achievements {
-    background-image: url("gold background.jpg"); /* Your background image */
-    background-color: gold; /* Sets the background color to gold */
+    
+    background-color: #e7dc9f; /* Sets the background color to gold */
     padding: 20px; /* Adds padding around the content */
     border-radius: 10px; /* Adds rounded corners */
     background-size: contain; /* Resize the image to fit within the section */
